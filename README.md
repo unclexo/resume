@@ -1,9 +1,9 @@
 ## Resume of Jobaer Sajeeb
 
-A full stack web developer specializing in database-driven web application development using Zend framework (2/3), Symfony framework (2/3), MySQL, Express.js, Node.js, MongoDB and React.js
+A full stack developer specializing in building database-driven web applications using Laravel (5.6), Zend framework (2/3), Symfony framework (2/3) and MySQL / Node.js, Express.js, React.js and MongoDB.
 
-Check this out on [Stackoverflow](https://stackoverflow.com/cv/jobaer-sajeeb)
+Check out on [Stackoverflow](https://stackoverflow.com/cv/jobaer-sajeeb)
 
 or 
 
-Check this out on [Github](https://unclexo.github.io/resume/)
+Check out on [Github](https://unclexo.github.io/resume/)
