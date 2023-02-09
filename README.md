@@ -1,2 +1,2 @@
-# cv
-The curriculum vitae of #unclexo
+# resume
+The resume of #unclexo
